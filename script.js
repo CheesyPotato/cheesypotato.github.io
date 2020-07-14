@@ -1,5 +1,6 @@
 function draw(){
   //github pages isnt working bruh moment
+  //bruh moment 2
   var elem = document.getElementById('canvas');
   function collides(rects, x, y) {
       var isCollision = false;
